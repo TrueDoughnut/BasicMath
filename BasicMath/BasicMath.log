@@ -1,0 +1,9 @@
+﻿  BasicMath.cpp
+c:\users\chris\documents\visual studio 2015\projects\basicmath\basicmath\basicmath.cpp(49): warning C4081: expected '('; found 'newline'
+c:\users\chris\documents\visual studio 2015\projects\basicmath\basicmath\basicmath.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\basicmath\basicmath\basicmath.cpp(54): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\basicmath\basicmath\basicmath.cpp(57): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\basicmath\basicmath\basicmath.cpp(60): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\basicmath\basicmath\basicmath.cpp(62): warning C4715: 'calculate': not all control paths return a value
+  BasicMath.vcxproj -> C:\Users\chris\documents\visual studio 2015\Projects\BasicMath\Debug\BasicMath.exe
+  BasicMath.vcxproj -> C:\Users\chris\documents\visual studio 2015\Projects\BasicMath\Debug\BasicMath.pdb (Full PDB)
